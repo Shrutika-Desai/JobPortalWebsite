@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+
+.navbar{
+	background-color: royalblue;
+}
+.navbar .nav-item .nav-link
+{
+	font-size: 20px;
+	color: white;
+}
+.navbar .nav-item .nav-link:hover
+{
+	background-color: white;
+	color: black;
+	border-radius: 10px;
+}
+.footerdiv
+{
+	background-color: royalblue;
+}
